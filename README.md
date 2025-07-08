@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Natalie!
+## Nice to meet you 👋 I'm Natalie!
 
 I'm a full-stack web developer and aspiring product-minded engineer studying EECS at UC Berkeley. I’m passionate about building intuitive, scalable tools that make people’s lives easier- whether that’s through empowering retail investors or simplifying meal prep with thoughtful UX.
 
