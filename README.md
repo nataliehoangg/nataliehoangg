@@ -12,7 +12,7 @@ I'm a full-stack web developer and aspiring product-minded engineer studying EEC
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
